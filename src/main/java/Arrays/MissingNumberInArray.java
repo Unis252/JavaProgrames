@@ -39,8 +39,6 @@ public class MissingNumberInArray {
 
             }
 
-
-
         }
         System.out.println("Missing numbers are : " +missingNumbers);
     }
